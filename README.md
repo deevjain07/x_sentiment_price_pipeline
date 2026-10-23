@@ -340,7 +340,7 @@ For reproducible results, document the selected asset, date range, data sources,
 
 Respect the terms of service and licensing requirements of all data providers. This project is intended for research, education, and software demonstration. It is not investment advice and should not be used as the sole basis for financial decisions.
 
-## Author
+## Author - Deev Jain
 
 **Project:** X Sentiment + Price Forecasting Pipeline
 
