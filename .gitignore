@@ -1,0 +1,19 @@
+# Secrets and local environment
+.env
+.venv/
+__pycache__/
+*.py[cod]
+
+# Local database
+data/*.db
+data/*.db-*
+data/*.sqlite
+data/*.sqlite3
+
+# Local/private datasets
+data/*
+!data/.gitkeep
+
+# Generated outputs
+outputs/*
+!outputs/.gitkeep
