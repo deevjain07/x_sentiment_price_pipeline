@@ -346,8 +346,3 @@ Respect the terms of service and licensing requirements of all data providers. T
 
 **Focus areas:** Python, machine learning, sentiment analysis, time-series forecasting, API integration, data engineering, and model evaluation.
 
-Add your name, GitHub profile, and contact details here if you want recruiters to contact you.
-
-## License
-
-Add a `LICENSE` file before distributing the repository publicly. If you have not selected a license, do not assume that others automatically have permission to reuse the code.
